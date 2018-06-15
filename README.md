@@ -1,4 +1,8 @@
 # Affaires-sensibles
 Scrapping des mp3 à partir d'une page html
 
-Faire un wget du fichier texte "liens mp3" pour télécharger automatiquement les émissions radio.
+Pour télécharger automatiquement les émissions radio, faire un 
+```shell
+wget -input liens\ mp3\ affaires\ sensibles.txt
+```
+
